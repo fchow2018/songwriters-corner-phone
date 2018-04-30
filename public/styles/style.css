@@ -1,0 +1,40 @@
+body{
+  padding: 3em 0em;
+  background-color: #fff;
+  height:100%;
+  overflow: hidden;
+}
+.row{
+  margin-top: 3em;
+}
+h1{
+  color:black;
+}
+.btn{
+  margin-bottom: 1em ;
+  background-color: #4ce39c;
+  border-color: #4ce39c   ;
+    color:white;
+}
+
+#btn_loign{
+  background-color: ##249660;
+  border-color: #249660;
+
+}
+
+#btn_signup{
+  background-color: #249660;
+  border-color: #249660;
+
+}
+#facebook{
+  background-color: #249660;
+
+}
+#button{
+  margin-top: 5em;
+}
+.modal{
+  margin-top:5em;
+}

@@ -1,0 +1,84 @@
+body{
+  padding: 0em 0em;
+  background-color: #fff;
+  height:100%;
+  overflow: scroll;
+}
+
+h1{
+  text-align: center;
+  color:black;
+}
+#map{
+  height:100%;
+}
+.btn{
+  margin-top: 0.4em ;
+  background-color: #4ce39c;
+}
+.content{
+  margin-bottom: 9em;
+}
+footer{
+  position: fixed;
+  bottom:0;
+  width:100%;
+
+}
+
+footer a{
+  text-decoration: none;
+  color:black;
+}
+footer .row{
+  border-top:1.4px solid black;
+  background-color: white;
+}
+
+.nav-link{
+  font-size:3em;
+  padding:0.5em;
+
+}
+.active{
+  background-color: white;
+
+}
+.active a{
+  text-decoration: none;
+  color:red;
+}
+#profile {
+  background-color: #6fffbb;
+}
+.profilePicHold {
+  width: 7em;
+  height: 7em;
+  opacity: .5;
+}
+img {
+    display: block;
+    margin-top: 2em;
+    margin-left: auto;
+    margin-right: auto;
+}
+.btn {
+  background-color: #4ce39c;
+}
+.tripHead {
+  margin-top: .7em;
+}
+.logoutButton {
+  margin-left: 1em;
+
+}
+.settingsButton {
+  margin-right: 2em;
+}
+
+.showing{
+  top:0;
+  z-index:20;
+  height:80%;
+  display:block;
+}
